@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ahmedmohamed1101140/ahmedmohamed1101140.git"
+    "url": "git+https://github.com/ahmedmohamed1101140/node-socket-io.git"
   },
   "author": "ahmedmohamed1101140",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ahmedmohamed1101140/ahmedmohamed1101140/issues"
+    "url": "https://github.com/ahmedmohamed1101140/node-socket-io/issues"
   },
-  "homepage": "https://github.com/ahmedmohamed1101140/ahmedmohamed1101140#readme",
+  "homepage": "https://github.com/ahmedmohamed1101140/node-socket-io#readme",
   "dependencies": {
     "express": "^4.17.1",
     "moment": "^2.24.0",
